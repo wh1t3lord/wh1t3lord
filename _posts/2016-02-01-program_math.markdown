@@ -27,7 +27,8 @@ comments: "true"
   Here I write some text before inserting programming code listing
 </p>
 
-~~~cpp
+<pre>
+	<code>
 #include <iostream>
 
 int main()
@@ -35,7 +36,8 @@ int main()
 
   return 0;
 }
-~~~
+	</code>
+</pre>
 
 <p>
   $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
