@@ -27,13 +27,14 @@ comments: "true"
   Here I write some text before inserting programming code listing
 </p>
 
-<code class="cpp-html">
-	#include <iostream> 
-	int main()
-	{
-		return 0;
-	}
-</code>
+{% highlight cpp %} 
+#include <iostream> 
+
+int main()
+{
+	return 0;
+}
+{% endhighlight %}
 
 <p>
   $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
