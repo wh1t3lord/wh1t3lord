@@ -39,3 +39,13 @@ int main()
 <p>
   $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 </p>
+
+<p>
+	some JSXGraph integration
+</p>
+
+<div id="jxgbox" class="jxgbox" style="width:500px; height:200px;"></div>
+<script type="text/javascript">
+ var board = JXG.JSXGraph.initBoard('jxgbox', {boundingbox: [-5, 2, 5, -2]});
+ var p = board.create('point',[-3,1]);
+</script>
