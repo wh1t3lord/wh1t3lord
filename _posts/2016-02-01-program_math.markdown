@@ -27,17 +27,7 @@ comments: "true"
   Here I write some text before inserting programming code listing
 </p>
 
-<pre>
-	<code class="cpp-html">
-"#include <iostream>
-
-int main()
-{
-
-  return 0;
-}"
-	</code>
-</pre>
+<pre><code class="cpp-html">#include <iostream> int main(){return 0;}</code></pre>
 
 <p>
   $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
