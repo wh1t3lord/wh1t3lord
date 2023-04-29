@@ -5,7 +5,7 @@ subtitle: "A test post for JS integration"
 active: "journal"
 image:
   feature: "pc007.jpg"
-date: "2016-02-01"
+date: "2016-02-02"
 header-img: "img/postcover/pc007.jpg"
 comments: "true"
 ---
