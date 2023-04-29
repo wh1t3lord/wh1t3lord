@@ -28,7 +28,7 @@ comments: "true"
 </p>
 
 <pre>
-	<code>
+	<code class="language-html">
 #include <iostream>
 
 int main()
