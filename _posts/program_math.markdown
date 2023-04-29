@@ -36,3 +36,7 @@ int main()
   return 0;
 }
 ```
+
+<p>
+  $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+</p>
