@@ -27,7 +27,7 @@ comments: "true"
   Here I write some text before inserting programming code listing
 </p>
 
-{% highlight cpp %} 
+{% highlight cplusplus %} 
 #include <iostream> 
 
 int main()
