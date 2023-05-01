@@ -19,19 +19,6 @@ I hate these things😶:
 I worked with outdated libraries and legacy environments and worked with modern things too.
 
 I know these:
-- wxWidgets/MFC;
-- Boost/STL;
-- C++11/14/17/20/23 standards;
-- Graphics API = Vulkan;
-- Graphics API = OpenGL ES (ANGLE);
-- Graphics API = DirectX;
-- CMake/Meson;
-- Writing cross-platform code (Linux, Windows);
-- A little network;
-- GCC/Clang/MSVC;
-
-If it is hard to read here is some badges:
-
 <div>
 <div align="center">
   <a href="https://isocpp.org/">
@@ -105,6 +92,18 @@ If it is hard to read here is some badges:
   </a>
 </div>
 </div>
+
+And these:
+- wxWidgets/MFC;
+- Boost/STL;
+- C++11/14/17/20/23 standards;
+- Graphics API = Vulkan;
+- Graphics API = OpenGL ES (ANGLE);
+- Graphics API = DirectX;
+- CMake/Meson;
+- Writing cross-platform code (Linux, Windows);
+- A little network (boost.asio);
+- GCC/Clang/MSVC;
 
 ## My experience
 
