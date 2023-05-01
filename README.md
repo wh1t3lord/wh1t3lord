@@ -115,7 +115,20 @@ I develop my framework-engine kotek in order to finish some project.
 For now I contributed to RmlUi project where I implemented Vulkan renderer from scratch.
 
 ### Stats
-[![wh1t3lord's GitHub stats](https://github-readme-stats.vercel.app/api?username=wh1t3lord)](https://github.com/wh1t3lord/wh1t3lord)
+<div class="container" align="center">
+        <a href="https://github.com/wh1t3lord/wh1t3lord">
+          <img alt="wh1t3lord stats" width="430" src="https://github-readme-stats.vercel.app/api?username=wh1t3lord"/>
+        </a>
+        <a href="https://github.com/wh1t3lord/wh1t3lord">
+          <img alt="wh1t3lord activity graph" width="430" src="https://github-readme-activity-graph.cyclic.app/graph?username=wh1t3lord&theme=react-dark"/>
+        </a>
+        <a href="https://github.com/wh1t3lord/wh1t3lord">
+          <img alt="wh1t3lord streak" width="430" src="https://github-readme-streak-stats.herokuapp.com?user=wh1t3lord&theme=dark&hide_border=true"/>
+        </a>
+        <a href="https://github.com/wh1t3lord/wh1t3lord">
+          <img alt="wh1t3lord top langs" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh1t3lord&hide=scss,css,javascript,html&layout=compact&theme=dark"/>
+        </a>
+</div>
 
 ## Wishes
 I would like to work on some C++ backends for Web environment.
