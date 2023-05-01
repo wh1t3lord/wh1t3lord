@@ -109,10 +109,15 @@ If it is hard to read here is some badges:
 ## My experience
 
 ### Personal projects
+
+#### Kotek
+
 I develop my framework-engine kotek in order to finish some project. 
 
 ### Open source contribution
-For now I contributed to RmlUi project where I implemented Vulkan renderer from scratch.
+
+#### RmlUI
+For now I contributed to RmlUI project where I implemented Vulkan renderer from scratch.
 
 ### Stats
 <div class="container" align="center">
