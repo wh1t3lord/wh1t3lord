@@ -1,167 +1,123 @@
-p h o t o r a m a 
-====================
+# About me
+
+I am a professional C++ software engineer😱. 
+
+I love these things😀: 
+
+- Low level/General optimizations🚅;
+- Designing architecture of anything🏗️;
+- Multithreading🎌;
+- Study something new🧠;
+- Work with legacy, but the system was written well💾;
+- Computer graphics🖥️.
+
+I hate these things😶:
+- Absolutely bad designed system and there's no opportunity for writing new system for replacement💢;
+- No documentation and people don't want to tell the things in calm manner🤬.
+
+## My skills
+I worked with outdated libraries and legacy environments and worked with modern things too.
+
+I know these:
+- wxWidgets/MFC;
+- Boost/STL;
+- C++11/14/17/20/23 standards;
+- Graphics API = Vulkan;
+- Graphics API = OpenGL ES (ANGLE);
+- Graphics API = DirectX;
+- CMake/Meson;
+- Writing cross-platform code (Linux, Windows);
+- A little network;
+- GCC/Clang/MSVC;
+
+If it is hard to read here is some badges:
+
+<div>
+<div align="center">
+  <a href="https://isocpp.org/">
+    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white" />
+  </a>
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/">
+    <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=flat&logo=c&logoColor=black" />
+  </a>
+</div>
+  
+<div align="center">
+  <a href="https://www.lua.org/">
+    <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?&style=flat&logo=lua&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/powershell/">
+    <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?&style=flat&logo=powershell&logoColor=white" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?&style=flat&logo=gnu%20bash&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/windows/console/">
+    <img src="https://img.shields.io/badge/Windows%20Console-%234D4D4D.svg?&style=flat&logo=windows%20terminal&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.json.org/json-en.html">
+    <img src="https://img.shields.io/badge/JSON-%23000000.svg?&style=flat&logo=json&logoColor=white" />
+  </a>
+  <a href="https://daringfireball.net/projects/markdown/">
+    <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat&logo=markdown&logoColor=white" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+</div>
+  
+<div align="center">
+  <a href="https://subversion.apache.org/">
+    <img src="https://img.shields.io/badge/Subversion-%23809CC9.svg?&style=flat&logo=subversion&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=flat&logo=git&logoColor=white" />
+  </a>
+  <a href="https://git-lfs.github.com/">
+    <img src="https://img.shields.io/badge/Git%20LFS-%23F64935.svg?&style=flat&logo=git%20lfs&logoColor=white" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?&style=flat&logo=visual%20studio&logoColor=white" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&style=flat&logo=visual%20studio%20code&logoColor=white" />
+  </a>            
+</div>
+  
+<div align="center">
+  <a href="https://en.wikipedia.org/wiki/Windows_10">
+    <img src="https://img.shields.io/badge/Windows_10-%230078D6.svg?&style=flat&logo=windows&logoColor=white" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Windows_XP">
+    <img src="https://img.shields.io/badge/Windows%20XP-%23003399.svg?&style=flat&logo=windows%20xp&logoColor=white" />
+  </a>
+  <a href="https://ubuntu.com/">
+    <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?&style=flat&logo=ubuntu&logoColor=white" />
+  </a>
+  <a href="https://manjaro.org/">
+    <img src="https://img.shields.io/badge/Manjaro-%2335BF5C.svg?&style=flat&logo=manjaro&logoColor=white" />
+  </a>
+</div>
+</div>
 
-![photorama](https://raw.githubusercontent.com/sunbliss/photorama/gh-pages/photorama_thumb.gif)
+## My experience
 
-----------
+### Personal projects
+I develop my framework-engine kotek in order to finish some project. 
 
----> [DEMO](https://sunbliss.github.io/photorama/ "DEMO")  <---
+### Open source contribution
+For now I contributed to RmlUi project where I implemented Vulkan renderer from scratch.
 
-----------
+### Stats
+[![wh1t3lord's GitHub stats](https://github-readme-stats.vercel.app/api?username=wh1t3lord)](https://github.com/wh1t3lord/wh1t3lord)
 
-A theme for **jekyll**. 
+## Wishes
+I would like to work on some C++ backends for Web environment.
 
-Created for gh-pages (project page).
-
-This template was crafted having in mind the photobloggers and the artists.
-
-It uses [Clean Blog](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll "Clean Blog") as its basis.
-
-----------
-## Change Log
-
-### Version 2.2 (4/23/2018)
-
-<a href="https://github.com/sunbliss/photorama/wiki/How-to-get-SSL-on-Jekyll%3F"> How to get SSL Certificate (Https) For Jekyll</a>
-
-### Version 2.1 (3/22/2017)
-
-* Fixed script loading. 
-* Fixed padding bottom for the navbar toggle menu.
-
-
-### Version 2.0 (2/4/2017)
-
-* HTTPS is now enforced. 
-
-~~**Custom Domains are not supported.**~~
-
-~~For the time being, the only way to apply a custom domain name is by removing HTTPS as of the previous version. 
-Hoping Github developers will give its users the ability to add a custom domain served under security.~~
-
-### Version 1.2 (1/31/2017)
-
-* Fixed footer code so that the twitter icon links to the twitter_username instead of instagram_username.
-
-### Version 1.1 (7/15/2016)
-
-* Improved galleries and search section.
-* Better rendering of the header text.
-
-### Version 1.0 (6/19/2016)
-* Initial Template
-
-----------
-
- **IMPORTANT!!!**
-================
-
-### Before you begin: Change the URL and the BASEURL as well as the internal nav links in the _config.yml
-
-The **URL** should say `https://yourusername.github.io`
-
-The **BASEURL** should say `/repositoryname`
-
-**Internal nav** should say
-
-  nav:
-
-  - GALLERY: `"https://yourusername.github.io/repositoryname/gallery/"`
-  - JOURNAL: `"https://yourusername.github.io/repositoryname/journal/"`
-  - ABOUT: `"https://yourusername.github.io/repositoryname/about/`"
-
-If there are problems with loading assets like CSS files and images, make sure that both **URL** and **BASEURL** are set correctly!!! 
-
-----------
-
-~~**NOT FOR HTTPS served repos!!!**~~
-==================================
-
-~~* Applies for v1.2!~~
-
-If you want to use your **own domain** go to the root of your project's repository, create a CNAME file and add a line with your domain name, e.g. `www.yourdomain.com`.
-
-Go to your domain name registrar and add a CNAME record pointing your domain to GitHub Pages:
-- type: CNAME
-- host: www.yourdomainname.com
-- answer: yourusername.github.io/repositoryname
-- TTL: 300
-
-----------
-
-Usage
-============ 
-
-###Quick Start
-
-1. [Fork this repository](https://github.com/sunbliss/photorama/fork) to get started. 
-2. Go to `https://github.com/yourusername/photorama/settings`
-3. Rename the repository to your new project, e.g. *myphotoblog*
-2. Create a new branch called `gh-pages` in your repository. 
-3. Go to the branches directory at `https://github.com/yourusername/repositoryname/branches` and *change* **default branch** to **gh-pages**.
-4. Delete **master** branch. 
-3. GitHub will build your site automatically and publish it at `https://yourusername.github.io/repositoryname/`.  
-
-----------
-
-- The homepage welcomes the visitors with 3 animated photos of your choice. It is recommended that all three are landscape orientated for best view.
-
-To change the welcome content at the far left of the Home page go here: `/index.html` and fill the responding lines of the YAML with your desired text.
-
-----------
-
-- To enable **disqus** comments in the posts, change their front matter for comments to 'true'.
-
-You must have a registered account in disqus, where you will also register a forum for your website.
-
-Find the line `s.src = '//yourproject.disqus.com/embed.js';  // ` in the disqus_comments.html and REPLACE 'yourproject' with your forum shortname.
-
-----------
-
-- In order to send **newsletters** about your posts to your subscribers, you should register an account in [tinyletter](http://www.tinyletter.com " tinyletter").
-
-Find the line `'https://tinyletter.com/yourproject', ` in the *newsletter.html* and replace 'yourproject' with your registered website.
-
-You can always ommit the newsletter rendering by deleting the line `{% include newsletter.html %}
-` in the *default.html* layout.
-
-----------
-
-If you want to use the matching **NEWSLETTER** template, you must always create a new file  by copying its respective index.html and renaming it to e.g. 2016-March-newsletter.html and then save it inside the folder and the accompanying images inside the 'images folder', so it can be accessed to your viewers through their browser. In this case the root url for the above newsletter will be ***http://yourgithubusername.github.io/yourproject/2016-March-newsletter.html***. Copy this link and replace this part of the code `http://www.yoursite.com/newsletter/year-month-newsletter` with it.
-
-----------
-
-**TAGS** and **CATEGORIES** of the posts 
-
-When you add a tag or a category name in the front matter of a post, don't forget to add the responding markdown files in /journal/tag/ folder and in /journal/category folder, so they can always render when browsing the journal or searching in the respective page.
-
-----------
-
-All the credits and the helpers can be found at **ABOUT** page.
-
-
-----------
-
-Read <a href="https://sunbliss.github.io/photorama/journal/images-size-for-better-performance/">**this**</a> post if you want to ensure your website always loads fast.
-
-
-----------
-
-I hope you will find it useful for your projects, photographic or not.
-
-
-----------
-
-
-##License
-
-The MIT License (MIT)
-
-Copyright (c) 2014 Filippo Oretti, Dario Andrei
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
+## Contacts
