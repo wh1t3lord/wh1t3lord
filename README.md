@@ -1,6 +1,6 @@
 # About me
 
-I am a professional C++ software engineer😱. 
+I am a professional C++/C# (.NET) software engineer😱. 
 
 I love these things😀: 
 
