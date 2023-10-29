@@ -135,6 +135,8 @@ For now I contributed to RmlUI project where I implemented Vulkan renderer from 
 </div>
 
 ## Wishes
-I would like to work on some C++ backends for Web environment.
+I would like to work on some C++ backends for Web environment or to join to some C# backend environment.
+
+Currently I am opened for relocation to Germany/Austria/Norway/Poland.
 
 ## Contacts
