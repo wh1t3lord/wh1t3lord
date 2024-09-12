@@ -1,6 +1,6 @@
 # About me
 
-I am a professional C++/C# (.NET) software engineer😱. 
+I am a professional C++ (Embedded, Graphics) software engineer😱. 
 
 I love these things😀: 
 
@@ -9,11 +9,7 @@ I love these things😀:
 - Multithreading🎌;
 - Study something new🧠;
 - Work with legacy, but the system was written well💾;
-- Computer graphics🖥️.
-
-I hate these things😶:
-- Absolutely bad designed system and there's no opportunity for writing new system for replacement💢;
-- No documentation and people don't want to tell the things in calm manner🤬.
+- Computer graphics (raster/rtx) 🖥️.
 
 ## My skills
 I worked with outdated libraries and legacy environments and worked with modern things too.
