@@ -14,7 +14,7 @@ I love these things😀:
 ## My skills
 I worked with outdated libraries and legacy environments and worked with modern things too.
 
-I know these:
+And I know these:
 <div>
 <div align="center">
   <a href="https://isocpp.org/">
@@ -90,7 +90,7 @@ I know these:
 </div>
 
 And these:
-- wxWidgets/MFC;
+- wxWidgets/MFC/Qt;
 - Boost/STL;
 - C++11/14/17/20/23 standards;
 - Graphics API = Vulkan;
@@ -100,6 +100,8 @@ And these:
 - Writing cross-platform code (Linux, Windows);
 - A little network (boost.asio);
 - GCC/Clang/MSVC;
+- Profiling tools (NVIDIA NSight, RenderDoc etc);
+- Scripting languages, Python, Lua;
 
 ## My experience
 
@@ -108,6 +110,10 @@ And these:
 #### Kotek
 
 I develop my framework-engine kotek in order to finish some project. 
+
+##### Zircon
+
+Game engine logic that based on kotek framework. So it is a game engine but isolated from framework and can be developed in separated branch. It demonstrates my design architecture.
 
 ### Open source contribution
 
