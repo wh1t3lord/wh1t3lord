@@ -146,7 +146,7 @@ Game **engine** logic that based on kotek framework. So it is a game engine but 
 
 So the key features are: 
 
-- Isolated code of renderer-(s);
+- Isolated code of renderer-(s); (yes, GAPIs callings are in dll not in .exe)
 - Modular design of "engine" part;
 - ECS;
 - Multithreaded renderer;
