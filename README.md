@@ -9,6 +9,7 @@ I love these things😀:
 - Multithreading🎌;
 - Study something new🧠;
 - Work with legacy, but the system was written well💾;
+- Physics;
 - Computer graphics (raster/rtx) 🖥️.
 
 ## My skills
@@ -87,6 +88,34 @@ And I know these:
     <img src="https://img.shields.io/badge/Manjaro-%2335BF5C.svg?&style=flat&logo=manjaro&logoColor=white" />
   </a>
 </div>
+
+<div align="center">
+  <a>
+    <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl"/>
+  </a>
+  <a>
+    <img src="https://a11ybadges.com/badge?logo=vulkan"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"/>
+  </a>
+</div>
+
+<div align="center">
+  <a>
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  </a>
+</div>
+
 </div>
 
 And these:
@@ -98,10 +127,10 @@ And these:
 - Graphics API = DirectX;
 - CMake/Meson;
 - Writing cross-platform code (Linux, Windows);
-- A little network (boost.asio);
+- A network (boost.asio/beast);
 - GCC/Clang/MSVC;
 - Profiling tools (NVIDIA NSight, RenderDoc etc);
-- Scripting languages, Python, Lua;
+- Scripting languages: Python, Lua;
 
 ## My experience
 
@@ -109,16 +138,26 @@ And these:
 
 #### Kotek
 
-I develop my framework-engine kotek in order to finish some project. 
+I develop my framework-engine [kotek](https://github.com/wh1t3lord/kotek) in order to finish some project. (Start date of development was ~2021)
 
 ##### Zircon
 
-Game engine logic that based on kotek framework. So it is a game engine but isolated from framework and can be developed in separated branch. It demonstrates my design architecture.
+Game **engine** logic that based on kotek framework. So it is a game engine but isolated from framework and can be developed in separated branch. It demonstrates my design architecture.
+
+So the key features are: 
+
+- Isolated code of renderer-(s);
+- Modular design of "engine" part;
+- ECS;
+- Multithreaded renderer;
 
 ### Open source contribution
 
 #### RmlUI
-For now I contributed to RmlUI project where I implemented Vulkan renderer from scratch.
+For now I contributed to [RmlUI](https://github.com/mikke89/RmlUi) project (HTML/CSS C++ library that used in many projects, even in commercial Games) where I implemented two renderers from scratch:
+
+- [Vulkan renderer](https://github.com/mikke89/RmlUi/blob/master/Backends/RmlUi_Renderer_VK.h#L69); ([Pull request](https://github.com/mikke89/RmlUi/pull/328))
+- DirectX 12 renderer;
 
 ### Stats
 <div class="container" align="center">
@@ -137,8 +176,13 @@ For now I contributed to RmlUI project where I implemented Vulkan renderer from 
 </div>
 
 ## Wishes
-I would like to work on some C++ backends for Web environment or to join to some C# backend environment.
+I would like to work on some C++ backends for Web environment or on some other Games.
 
-Currently I am opened for relocation to Germany/Austria/Norway/Poland.
+Currently I am opened for relocation to Serbia/Germany/Norway.
 
 ## Contacts
+<div class="container" align="center">
+  <a href="https://t.me/wh1t3lord">
+    <img alt="my telegram account" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</div>
