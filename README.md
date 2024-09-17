@@ -154,7 +154,7 @@ So the key features are:
 ### Open source contribution
 
 #### RmlUI
-For now I contributed to [RmlUI](https://github.com/mikke89/RmlUi) project (HTML/CSS C++ library that used in many projects, even in commercial Games) where I implemented two renderers from scratch:
+I contributed to [RmlUI](https://github.com/mikke89/RmlUi) project (HTML/CSS C++ library that used in many projects, even in commercial Games) where I implemented two renderers from scratch:
 
 - [Vulkan renderer](https://github.com/mikke89/RmlUi/blob/master/Backends/RmlUi_Renderer_VK.h#L69); ([Pull request](https://github.com/mikke89/RmlUi/pull/328))
 - DirectX 12 renderer;
