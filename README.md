@@ -191,4 +191,7 @@ I would like to work on some backends for 3D, Geometry processing, Neural render
   <a href="https://t.me/wh1t3lord">
     <img alt="my telegram account" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+  <a href="https://discord.com/invite/39KEWvDajp">
+    <img alt="my discord server" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </div>
