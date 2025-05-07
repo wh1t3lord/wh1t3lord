@@ -10,7 +10,8 @@ I love these things😀:
 - Study something new🧠;
 - Work with legacy, but the system was written well💾;
 - Physics;
-- Computer graphics (raster/rtx) 🖥️.
+- Computer graphics (raster/rtx/neural) 🖥️.
+- Neural networks (AI);
 
 ## My skills
 I worked with outdated libraries and legacy environments and worked with modern things too.
@@ -132,6 +133,13 @@ And these:
 - Profiling tools (NVIDIA NSight, RenderDoc etc);
 - Scripting languages: Python, Lua;
 
+And engineering: 
+- Neural networks;
+- Numeric methods;
+- Mechanics;
+- Electrical engineering;
+- A little of aerodynamics;
+
 ## My experience
 
 ### Personal projects
@@ -146,7 +154,7 @@ Game **engine** logic that based on kotek framework. So it is a game engine but 
 
 So the key features are: 
 
-- Isolated code of renderer-(s); (yes, GAPIs callings are in dll not in .exe)
+- Isolated code of renderer-(s); (yes, most of GAPIs callings are in dll not in .exe)
 - Modular design of "engine" part;
 - ECS;
 - Multithreaded renderer;
@@ -176,9 +184,7 @@ I contributed to [RmlUI](https://github.com/mikke89/RmlUi) project (HTML/CSS C++
 </div>
 
 ## Wishes
-I would like to work on some C++ backends for Web environment or on some other Games.
-
-Currently I am opened for relocation to Serbia/Germany/Norway.
+I would like to work on some backends for 3D, Geometry processing, Neural rendering and other things that can be related to computer graphics including Web rendering (optimizations,composing rendering frame and etc)
 
 ## Contacts
 <div class="container" align="center">
