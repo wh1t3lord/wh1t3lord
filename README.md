@@ -1,17 +1,18 @@
 # About me
 
-I am a professional C++ (Embedded, Graphics) software engineer😱. 
+I am a professional C++/Python ~~software~~ **engineer**. 
 
 I love these things😀: 
 
 - Low level/General optimizations🚅;
-- Designing architecture of anything🏗️;
+- Designing architecture;
 - Multithreading🎌;
 - Study something new🧠;
-- Work with legacy, but the system was written well💾;
 - Physics;
 - Computer graphics (raster/rtx/neural) 🖥️.
-- Neural networks (AI);
+- Neural networks (RL/3DGS/CV);
+
+And just solving tasks that will bring some value to people 🏆
 
 ## My skills
 I worked with outdated libraries and legacy environments and worked with modern things too.
@@ -88,6 +89,12 @@ And I know these:
   <a href="https://manjaro.org/">
     <img src="https://img.shields.io/badge/Manjaro-%2335BF5C.svg?&style=flat&logo=manjaro&logoColor=white" />
   </a>
+  <a>
+    <img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
+  </a>
 </div>
 
 <div align="center">
@@ -117,28 +124,19 @@ And I know these:
   </a>
 </div>
 
+<div align="center">
+  <a>
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  </a>
 </div>
 
-And these:
-- wxWidgets/MFC/Qt;
-- Boost/STL;
-- C++11/14/17/20/23 standards;
-- Graphics API = Vulkan;
-- Graphics API = OpenGL ES (ANGLE);
-- Graphics API = DirectX;
-- CMake/Meson;
-- Writing cross-platform code (Linux, Windows);
-- A network (boost.asio/beast);
-- GCC/Clang/MSVC;
-- Profiling tools (NVIDIA NSight, RenderDoc etc);
-- Scripting languages: Python, Lua;
-
-And engineering: 
-- Neural networks;
-- Numeric methods;
-- Mechanics;
-- Electrical engineering;
-- A little of aerodynamics;
+</div>
 
 ## My experience
 
@@ -150,14 +148,19 @@ I develop my framework-engine [kotek](https://github.com/wh1t3lord/kotek) in ord
 
 ##### Zircon
 
-Game **engine** logic that based on kotek framework. So it is a game engine but isolated from framework and can be developed in separated branch. It demonstrates my design architecture.
+Game **engine** logic that based on kotek framework. So it is a game engine but isolated from framework and can be developed in as separated repo. It demonstrates my design of engine/framework's architecture.
 
-So the key features are: 
+A little list of some features: 
 
 - Isolated code of renderer-(s); (yes, most of GAPIs callings are in dll not in .exe)
 - Modular design of "engine" part;
 - ECS;
 - Multithreaded renderer;
+- Streaming undo/redo;
+- WYSIWYG Editor;
+- Modular renderer;
+
+And many other features...
 
 ### Open source contribution
 
@@ -170,21 +173,18 @@ I contributed to [RmlUI](https://github.com/mikke89/RmlUi) project (HTML/CSS C++
 ### Stats
 <div class="container" align="center">
         <a href="https://github.com/wh1t3lord/wh1t3lord">
-          <img alt="wh1t3lord stats" width="430" src="https://github-readme-stats.vercel.app/api?username=wh1t3lord"/>
+          <img alt="wh1t3lord stats" height="240" src="https://github-readme-stats.vercel.app/api?username=wh1t3lord&theme=chartreuse-dark&layout=compact&card_width=320"/>
         </a>
         <a href="https://github.com/wh1t3lord/wh1t3lord">
-          <img alt="wh1t3lord activity graph" width="430" src="https://github-readme-activity-graph.cyclic.app/graph?username=wh1t3lord&theme=react-dark"/>
+          <img alt="wh1t3lord activity graph" height="240" src="https://github-readme-activity-graph.vercel.app/graph?username=wh1t3lord&theme=github-compact&layout=compact&card_width=320"/>
         </a>
         <a href="https://github.com/wh1t3lord/wh1t3lord">
-          <img alt="wh1t3lord streak" width="430" src="https://github-readme-streak-stats.herokuapp.com?user=wh1t3lord&theme=dark&hide_border=true"/>
+          <img alt="wh1t3lord streak" height="240" src="https://github-readme-streak-stats.herokuapp.com?user=wh1t3lord&theme=dark&hide_border=true&layout=compact&card_width=320"/>
         </a>
         <a href="https://github.com/wh1t3lord/wh1t3lord">
-          <img alt="wh1t3lord top langs" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh1t3lord&hide=scss,css,javascript,html&layout=compact&theme=dark"/>
+          <img alt="wh1t3lord top langs" height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh1t3lord&hide=scss,css,javascript,html&layout=compact&card_width=320&theme=dark"/>
         </a>
 </div>
-
-## Wishes
-I would like to work on some backends for 3D, Geometry processing, Neural rendering and other things that can be related to computer graphics including Web rendering (optimizations,composing rendering frame and etc)
 
 ## Contacts
 <div class="container" align="center">
@@ -193,5 +193,11 @@ I would like to work on some backends for 3D, Geometry processing, Neural render
   </a>
   <a href="https://discord.com/invite/39KEWvDajp">
     <img alt="my discord server" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://bsky.app/profile/wh1t3lord.bsky.social">
+    <img alt="my bluesky" src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white">
+  </a>
+  <a href="https://x.com/wh1t3lord">
+    <img alt="my twitter" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
   </a>
 </div>
